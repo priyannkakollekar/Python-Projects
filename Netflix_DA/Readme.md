@@ -47,4 +47,4 @@ Count plots for content type (Movies vs. TV Shows)<br/>
 Contributions, issues, and feature requests are welcome! Please feel free to check out the issues page if you want to contribute.
 
 ## 📬 Contact
-If you have any questions, feel free to reach out via LinkedIn or email.
+If you have any questions, feel free to reach out via <a href="https://www.linkedin.com/in/priyannka-kollekar/">LinkedIn</a> or <a href="mailto:priyannkakollekar@gmail.com">email</a>.
